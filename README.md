@@ -100,7 +100,7 @@ lib/
 Add screenshots here after uploading images to your repository.
 
 ### Splash Screen
-<img width="200" height="250" alt="splash" src="https://github.com/user-attachments/assets/a8ccdfcd-a145-4506-bc88-7f98ce8d5a8e" />
+<img width="180" height="280" alt="splash" src="https://github.com/user-attachments/assets/a8ccdfcd-a145-4506-bc88-7f98ce8d5a8e" />
 
 
 
