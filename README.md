@@ -105,19 +105,36 @@ Add screenshots here after uploading images to your repository.
 
 
 ### Login Screen
-![Login Screen](assets/screenshots/login.png)
+<img width="1080" height="2260" alt="loginnnn" src="https://github.com/user-attachments/assets/5afcb300-35f3-41cb-a844-1a89a4596cd4" />
+
 
 ### Registration Screen
-![Register Screen](assets/screenshots/register.png)
+<img width="1080" height="2240" alt="register1" src="https://github.com/user-attachments/assets/beb0d0c9-b9d5-4ad5-a0c8-af9cdbc448c9" />
+<img width="1080" height="2261" alt="register2" src="https://github.com/user-attachments/assets/6306594d-7348-45b9-8208-9504fbabba47" />
+
 
 ### Pair Trolley Screen
-![Pair Trolley](assets/screenshots/pair_trolley.png)
+<img width="1080" height="2263" alt="pair" src="https://github.com/user-attachments/assets/f1aa4ee8-a295-492f-9627-d84f96ea5b34" />
+
 
 ### Bluetooth Screen
-![Bluetooth](assets/screenshots/bluetooth.png)
+<img width="1080" height="2256" alt="blue1" src="https://github.com/user-attachments/assets/2263d8af-9ae4-4cd6-b5b7-4b994e32bb74" />
+<img width="1080" height="2262" alt="blu2" src="https://github.com/user-attachments/assets/589f9d14-5175-480a-af32-96e54c3dd3e5" />
+
 
 ### QR Scanner Screen
-![QR Scanner](assets/screenshots/qr_scanner.png)
+<img width="1080" height="2258" alt="qr" src="https://github.com/user-attachments/assets/79173215-a05f-4dee-b7c7-c30f4ef6a1ae" />
+### Bar Code 
+<img width="1080" height="2275" alt="bar" src="https://github.com/user-attachments/assets/f4adf032-c05f-4b55-ad27-9c95032649de" />
+
+
+### Product Screen
+<img width="1080" height="2254" alt="item" src="https://github.com/user-attachments/assets/3b80c5aa-87d2-40f2-8ac3-2b48767d90c9" />
+### Payment Screen
+<img width="1080" height="2268" alt="pay" src="https://github.com/user-attachments/assets/331aad2b-bd8e-4123-b078-fbd73f3381d0" />
+<img width="1080" height="2247" alt="ay2" src="https://github.com/user-attachments/assets/d8df3124-6358-4e0f-b425-5146ea9073d7" />
+
+
 
 ---
 
