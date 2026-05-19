@@ -109,7 +109,7 @@ Add screenshots here after uploading images to your repository.
 
 
 ### Registration Screen
-<img width="180" height="280" alt="register1" src="https://github.com/user-attachments/assets/beb0d0c9-b9d5-4ad5-a0c8-af9cdbc448c9" />   <img width="180" height="280" alt="register2" src="https://github.com/user-attachments/assets/6306594d-7348-45b9-8208-9504fbabba47" />
+<img width="180" height="280" alt="register1" src="https://github.com/user-attachments/assets/beb0d0c9-b9d5-4ad5-a0c8-af9cdbc448c9" />     <img width="180" height="280" alt="register2" src="https://github.com/user-attachments/assets/6306594d-7348-45b9-8208-9504fbabba47" />
 
 
 ### Pair Trolley Screen
@@ -117,7 +117,7 @@ Add screenshots here after uploading images to your repository.
 
 
 ### Bluetooth Screen
-<img width="180" height="280" alt="blue1" src="https://github.com/user-attachments/assets/2263d8af-9ae4-4cd6-b5b7-4b994e32bb74" /><img width="180" height="280" alt="blu2" src="https://github.com/user-attachments/assets/589f9d14-5175-480a-af32-96e54c3dd3e5" />
+<img width="180" height="280" alt="blue1" src="https://github.com/user-attachments/assets/2263d8af-9ae4-4cd6-b5b7-4b994e32bb74" />     <img width="180" height="280" alt="blu2" src="https://github.com/user-attachments/assets/589f9d14-5175-480a-af32-96e54c3dd3e5" />
 
 
 ### QR Scanner Screen
