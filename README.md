@@ -109,7 +109,7 @@ Add screenshots here after uploading images to your repository.
 
 
 ### Registration Screen
-<img width="180" height="280" alt="register1" src="https://github.com/user-attachments/assets/beb0d0c9-b9d5-4ad5-a0c8-af9cdbc448c9" /><img width="180" height="280" alt="register2" src="https://github.com/user-attachments/assets/6306594d-7348-45b9-8208-9504fbabba47" />
+<img width="180" height="280" alt="register1" src="https://github.com/user-attachments/assets/beb0d0c9-b9d5-4ad5-a0c8-af9cdbc448c9" />   <img width="180" height="280" alt="register2" src="https://github.com/user-attachments/assets/6306594d-7348-45b9-8208-9504fbabba47" />
 
 
 ### Pair Trolley Screen
@@ -122,12 +122,16 @@ Add screenshots here after uploading images to your repository.
 
 ### QR Scanner Screen
 <img width="180" height="280" alt="qr" src="https://github.com/user-attachments/assets/79173215-a05f-4dee-b7c7-c30f4ef6a1ae" />
+
+
 ### Bar Code 
 <img width="180" height="280" alt="bar" src="https://github.com/user-attachments/assets/f4adf032-c05f-4b55-ad27-9c95032649de" />
 
 
 ### Product Screen
 <img width="180" height="280" alt="item" src="https://github.com/user-attachments/assets/3b80c5aa-87d2-40f2-8ac3-2b48767d90c9" />
+
+
 ### Payment Screen
 <img width="180" height="280" alt="pay" src="https://github.com/user-attachments/assets/331aad2b-bd8e-4123-b078-fbd73f3381d0" />
 <img width="180" height="280" alt="ay2" src="https://github.com/user-attachments/assets/d8df3124-6358-4e0f-b425-5146ea9073d7" />
