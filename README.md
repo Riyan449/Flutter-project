@@ -100,7 +100,9 @@ lib/
 Add screenshots here after uploading images to your repository.
 
 ### Splash Screen
-![Splash Screen](assets/screenshots/splash.png)
+<img width="1080" height="2244" alt="splash" src="https://github.com/user-attachments/assets/a8ccdfcd-a145-4506-bc88-7f98ce8d5a8e" />
+
+
 
 ### Login Screen
 ![Login Screen](assets/screenshots/login.png)
